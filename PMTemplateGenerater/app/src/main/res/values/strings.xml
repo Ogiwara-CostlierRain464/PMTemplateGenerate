@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">プラグインテンプレメーカー</string>
+    <string name="Owser">作者</string>
+    <string name="PluginName">プラグイン名</string>
+    <string name="Version">バージョン</string>
+    <string name="message.chooseAPI">以下からAPIのバージョンを選んで下さい</string>
+    <string-array name="API">
+        <item>1.13.0</item>
+        <item>1.14.0</item>
+        <item>2.0.0</item>
+    </string-array>
+    <string name="finish">終了</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="notdefine">NOTDIFINE</string>
+    <string name="causion">注意!まだ開発中です!</string>
+</resources>
